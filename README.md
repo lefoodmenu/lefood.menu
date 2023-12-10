@@ -1,2 +1,2 @@
 # lefood.menu
-https://lefood.menu/ site repository
+https://lefood.menu site repository
